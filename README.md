@@ -1,10 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">Myself Kailash Dusad....</p>
-
-###
+<h1 align="left">Hey 👋 I am Kailash Dusad</h1>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kailash-dusad-36475925b/" target="_blank">
