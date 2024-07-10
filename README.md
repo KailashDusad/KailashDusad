@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I am Kailash Dusad</h1>
+<h1 align="left">Kailash Dusad</h1>
 
 ###
 
