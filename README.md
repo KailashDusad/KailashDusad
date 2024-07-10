@@ -2,8 +2,6 @@
 
 ###
 
-<p align="left">Myself Kailash Dusad....</p>
-
 ###
 
 <div align="left">
