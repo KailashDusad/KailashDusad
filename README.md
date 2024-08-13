@@ -17,12 +17,6 @@
 
 <h2 align="left">IIT Gn'26 EE</h2>
 
-###
-
-<p align="left">✨ Creating bugs since ....🤔<br>📚 I'm currently learning Flutter & Firebase</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
@@ -64,23 +58,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KailashDusad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KailashDusad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=KailashDusad&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/KailashDusad/count.svg?"  />
-</div>
-
-###
